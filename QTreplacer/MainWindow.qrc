@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/imgs">
+    <file>Resources/copy.png</file>
+    <file>Resources/paste1.png</file>
+  </qresource>
+  <qresource prefix="/fonts">
+    <file>PixelFJVerdana12pt.ttf</file>
+  </qresource>
+  <qresource prefix="/icons">
+    <file>Resources/recycle-bin.svg</file>
+    <file>Resources/plus-circular-button.svg</file>
+  </qresource>
+</RCC>
